@@ -1,4 +1,4 @@
-## Hi, i Vladimir or just Vova.
+## Hi, my name is Vladimir or just Vova.
 
 I student of high school and i self-taught dev.
 
