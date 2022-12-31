@@ -8,4 +8,4 @@ I student of high school and i self-taught dev.
 Where are they?
 
 ## Links
-https://vlapsk1y.dev
+About me - https://vlapsk1y.dev
