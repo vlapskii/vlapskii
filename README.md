@@ -8,4 +8,4 @@ I'm member of razoom.art as dev & devops.
 * litflow (NDA) - the aggregator of books by [razoom.art](https://github.com/razoomart), at current time project is freezed due team disorder. There is i'm backend developer on Rust.
 
 ## pet-projects
-Someday they decently made and will published here.
+Someday they will be decently done and published here.
