@@ -11,4 +11,4 @@ I'm member of razoom.art as dev & devops.
 
 * PolyRay - the 3D engine in deeply development, and closed for public access, after when we will sure that's ready, we'll open access.
 
-* [Shikimori-iOS](https://github.com/vlapsk1y/shikimori-ios) - the unoffical iOS client russian database about anime like MAL (MyAnimeList)
+* [Shikimori-iOS](https://github.com/vlapsk1y/shikimori-ios) - the unoffical iOS client Shikimori. Shikimori is CIS's database of anime like MAL (MyAnimeList)
