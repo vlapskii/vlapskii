@@ -7,6 +7,4 @@ I'm student of high school (11th final grade) and self-taught dev and member of 
 
 ## Pet-Projects
 
-* PolyRay - the 3D engine in deeply development, and closed for public access, after when we will sure that's ready, we'll open access.
-
 * [Shikimori-iOS](https://github.com/vlapsk1y/shikimori-ios) - the unoffical iOS client Shikimori. Shikimori is CIS's database of anime like MAL (MyAnimeList)
