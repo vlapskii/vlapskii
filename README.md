@@ -1,6 +1,6 @@
 ## Hi, my name is Vladimir or you can casual call me Vova. (I prefer casual)
 
-I'm student of high school (11th final grade) and self-taught dev and member of [razoom.art](https://github.com/razoomart) as dev & devops.
+I'm student of high school (11th final grade) and self-taught.
 
 ## Pet-Projects
 
