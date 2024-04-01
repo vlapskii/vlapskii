@@ -1,4 +1,4 @@
-## Hi, my name is Vladimir or you can casual call me Vova. (I prefer casual)
+## Hi, my name is Vova.
 
 I'm student of high school (11th final grade) and self-taught dev.
 
