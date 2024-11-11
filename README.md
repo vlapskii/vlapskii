@@ -1,7 +1,12 @@
-## Hi, my name is Vova.
+Oh, hi!
 
-I'm self-taught dev.
+### About me
+I'm self-taught dev since 201(?) (my previous github account was deleted), but I hasn't been very active for this all time by various reasons (includes lazy). For moment at writing this markdown, I studying at the university college.
 
-Pet projects:
+Skills:
+* not advanced iOS applications
+* a little bit linux administration (at closed very small design studio)
+* not advanced programming in cpp
+* Lua (thanks to OpenComputers), Python (often used to school&college for resolving problems), and a little bit Rust
 
-...
+That's all for now..
