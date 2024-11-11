@@ -9,4 +9,7 @@ Skills:
 * not advanced programming in cpp
 * Lua (thanks to OpenComputers), Python (often used to school&college for resolving problems), and a little bit Rust
 
+### Links:
+[Telegram](https://t.me/vlapsk1y)
+
 That's all for now..
