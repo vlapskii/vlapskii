@@ -5,7 +5,7 @@ I'm self-taught dev since 201(?) (my previous github account was deleted), but I
 
 Skills:
 * not advanced iOS applications
-* a little bit linux administration (at closed very small design studio)
+* a little bit linux administration (got skill at former very small design studio)
 * not advanced programming in cpp
 * Lua (thanks to OpenComputers), Python (often used to school&college for resolving problems), and a little bit Rust
 
