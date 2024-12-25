@@ -1,7 +1,7 @@
 Oh, hi!
 
 ### About me
-I'm self-taught dev since 201(?) (my previous github account was deleted), but I hasn't been very active for this all time by various reasons (includes lazy). For moment at writing this markdown, I studying at the university college.
+I'm self-taught dev since 201(?) (my previous github account was deleted), but I hasn't been very active for this all time by various reasons (includes lazy).
 
 Skills:
 * not advanced iOS applications
