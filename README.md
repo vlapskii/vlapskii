@@ -10,6 +10,6 @@ Skills:
 * Lua (thanks to OpenComputers), Python (often used to school&college for resolving problems), and a little bit Rust
 
 ### Links:
-[Telegram](https://t.me/vlapsk1y)
+[Telegram](https://t.me/vlapskii)
 
 That's all for now..
