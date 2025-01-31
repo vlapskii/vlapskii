@@ -12,4 +12,6 @@ Skills:
 ### Links:
 [Telegram](https://t.me/vlapskii)
 
+[Telegram channel (only in Russian)](https://t.me/vlapskii_log)
+
 That's all for now..
