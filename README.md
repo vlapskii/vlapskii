@@ -1,7 +1,7 @@
 Oh, hi!
 
 ### About me
-I'm self-taught dev 
+I'm self-taught dev from the one of northest regions of Russia, I have a strong interest in tech stuff and a little bit in math.
 
 Skills:
 * a little bit linux administration (got skill at former very small design studio)
