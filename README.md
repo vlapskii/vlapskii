@@ -1,17 +1,19 @@
-Oh, hi!
+## こんにちは (Konnichiwa)!
+I'm self-taught developer and college graduate lol.
 
-### About me
-I'm self-taught dev from the one of northest regions of Russia, I have a strong interest in tech stuff and a little bit in math.
+If you interested in things created by me, may be you could follow my [tg channel](https://t.me/vlapskii_log)
+# Contact with me
+PM Telegram: https://t.me/vlapskii
 
-Skills:
-* a little bit linux administration (got skill at former very small design studio)
-* not advanced programming in cpp
-* Lua (thanks to OpenComputers), Python (often used to school & unversity for resolve problems), and a little bit Rust
+primary email: vlapskiy@yandex.ru
 
-### Links:
-[Telegram](https://t.me/vlapskii)
+not ru email (not primary): vladimirlapskiy@icloud.com
 
-### Pet-projects:
-XXX - XXX
+# My natural language skills
+- Russian (native)
+- English (between A2 and B1; it's hard to pinpoint exactly)
 
-That's all for now..
+
+
+
+P.S: while i'm not employed.
