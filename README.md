@@ -1,4 +1,4 @@
-## こんにちは (Konnichiwa)!
+## Hi
 I'm self-taught developer and college graduate lol.
 
 If you interested in things created by me, may be you could follow my [tg channel](https://t.me/vlapskii_log)
