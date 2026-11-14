@@ -12,8 +12,3 @@ not ru email (not primary): vladimirlapskiy@icloud.com
 # My natural language skills
 - Russian (native)
 - English (between A2 and B1; it's hard to pinpoint exactly)
-
-
-
-
-P.S: while i'm not employed.
